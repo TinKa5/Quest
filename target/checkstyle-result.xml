@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.5">
+<file name="D:\test4\Game\src\main\java\quest\entitiesKeeper\Bear.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\entitiesKeeper\Chicken.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\entitiesKeeper\Dragon.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\entitiesKeeper\Entity.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\entitiesKeeper\EntityCreator.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\entitiesKeeper\Fox.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\entitiesKeeper\Kolobok.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\entitiesKeeper\package-info.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\entitiesKeeper\Wolf.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\fight\ChangerWeapon.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\fight\FightCreator.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\fight\Observer.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\fight\package-info.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\fight\Result.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\physics\Button.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\physics\MainGame.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\physics\package-info.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\physics\ThreadHenler.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\sound\package-info.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\sound\Sound.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\sound\SoundRunnable.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\strategiesKeeper\BoxingStrategy.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\strategiesKeeper\FireStrategy.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\strategiesKeeper\GunStrategy.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\strategiesKeeper\package-info.java">
+</file>
+<file name="D:\test4\Game\src\main\java\quest\strategiesKeeper\Strategy.java">
+</file>
+</checkstyle>
